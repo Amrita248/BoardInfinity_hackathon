@@ -1,0 +1,17 @@
+.site-card-wrapper {
+    padding: 30px;
+    
+  }
+  .site-card-border-less-wrapper {
+    padding: 30px;
+    background-Color: #c54141;
+  }
+  .text
+  {
+      color:"#c54141";
+
+  }
+  .btn
+  {
+      padding-Top:"20px";
+  }
